@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_07_memo=self.webpackChunk_07_memo||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/07memo/blog","blogTitle":"Blog","authorsListPath":"/07memo/blog/authors"}')}}]);
